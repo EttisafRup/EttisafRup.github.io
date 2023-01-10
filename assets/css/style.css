@@ -883,7 +883,7 @@ section {
 }
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
   background-color: rgb(221, 20, 20);
-  border: none;
+  border: 2px solid rgb(221, 20, 20);
 }
 
 /*--------------------------------------------------------------
